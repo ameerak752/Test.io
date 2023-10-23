@@ -1,5 +1,5 @@
-Contact Information
+# Contact Information
 
 Our Team members:
 
-Angela, Isam, Honor, Ameera
+## Angela, Isam, Honor, Ameera
